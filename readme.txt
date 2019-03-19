@@ -6,3 +6,6 @@ Git tracks changes of files.
 public void main(){
 	print("anything");
 }
+
+void add(){
+}
