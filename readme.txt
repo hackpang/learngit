@@ -3,3 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
+public void main(){
+	print("anything");
+}
